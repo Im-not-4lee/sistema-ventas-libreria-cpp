@@ -26,7 +26,7 @@ Este proyecto fue realizado con fines académicos para reforzar el uso de arregl
 
 ---
 
-##⚠️ Consideraciones
+⚠️ Consideraciones
 - El sistema permite un máximo de 100 ventas registradas.
 - El “libro más vendido” se determina según el mayor ingreso generado, no por la cantidad de ejemplares vendidos.
 - No se utiliza almacenamiento persistente; los datos se pierden al cerrar el programa.
